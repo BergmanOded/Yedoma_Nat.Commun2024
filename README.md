@@ -11,3 +11,5 @@ Figure S6 (b-c). Soil core microbes. Map of study sites. <br>
 
 Figure was generated in r, <br>
 grouped and scaled to size was done in inkscape. The r script is presented including all related files, needed to replicate the figures. 
+
+Cite the code: [![DOI](https://zenodo.org/badge/765672498.svg)](https://zenodo.org/doi/10.5281/zenodo.11561649)
